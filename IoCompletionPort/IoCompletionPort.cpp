@@ -100,7 +100,7 @@ DWORD WINAPI ServerWorkerThread(LPVOID CompletionPortID)
 }
 int _tmain(int argc, _TCHAR* argv[])
 {
-
+	printf("I have changed!\n");
 	return 0;
 }
 
