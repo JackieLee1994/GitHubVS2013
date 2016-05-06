@@ -101,6 +101,7 @@ DWORD WINAPI ServerWorkerThread(LPVOID CompletionPortID)
 int _tmain(int argc, _TCHAR* argv[])
 {
 	printf("I have changed!\n");
+	printf("I have changed repository!\n");
 	return 0;
 }
 
